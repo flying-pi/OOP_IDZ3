@@ -1,0 +1,12 @@
+.idea
+.idea/*
+
+*/.idea/*
+.iws
+workspace.xml
+tasks.xml
+.iml
+misc.xml
+vcs.xml
+modules.xml
+misc.xml
