@@ -1,5 +1,3 @@
-#pragma once
-
 #ifndef MYMATRF_H
 #define MYMATRF_H
 #include <stdio.h>
